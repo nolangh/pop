@@ -1,8 +1,6 @@
 export default function Index() {
 	return (
 		/*This is a test for the repo connect */
-		<div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-			Suck It
-		</div>
+		<div className="text-red-500">This is index.js</div>
 	);
 }
