@@ -1,3 +1,3 @@
 export default function signIn() {
-	<div>This is the Sign in Page</div>;
+	<div>This will be the Sign in page</div>;
 }
