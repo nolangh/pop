@@ -9,7 +9,11 @@ specifiers:
   eslint: ^8.27.0
   isbot: ^3.6.5
   npm-run-all: ^4.1.5
+<<<<<<< HEAD
   pg: ^8.8.0
+=======
+  pocketbase: ^0.10.1
+>>>>>>> d17af24d24b0ff43f157e1a682495899350d131c
   react: ^18.2.0
   react-dom: ^18.2.0
   tailwindcss: ^3.2.4
@@ -19,7 +23,11 @@ dependencies:
   '@remix-run/react': 1.10.1_biqbaboplfbrettd7655fr4n2y
   '@remix-run/serve': 1.10.1_biqbaboplfbrettd7655fr4n2y
   isbot: 3.6.5
+<<<<<<< HEAD
   pg: 8.8.0
+=======
+  pocketbase: 0.10.1
+>>>>>>> d17af24d24b0ff43f157e1a682495899350d131c
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
 
@@ -6422,6 +6430,10 @@ packages:
     dependencies:
       find-up: 3.0.0
     dev: true
+
+  /pocketbase/0.10.1:
+    resolution: {integrity: sha512-FMBhF+9o2AmdKJYbfz2qunnk4Q5/efYMRcukdQF49UfhsIuaSYl39fSPN1l880bYI4XAvDDeySAjK1MlxrK37A==}
+    dev: false
 
   /posix-character-classes/0.1.1:
     resolution: {integrity: sha512-xTgYBc3fuo7Yt7JbiuFxSYGToMoz8fLoE6TC9Wx1P/u+LfeThMOAqmuyECnlBaaJb+u1m9hHiXUEtwW4OzfUJg==}
